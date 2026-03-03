@@ -21,8 +21,8 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **About Me**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding"/>
-</div>
+     <img src="https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif" width="400" alt="Coding"/>
+   </div>
 
 ```yaml
 👨‍💻 Developer Profile:
