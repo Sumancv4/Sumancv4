@@ -2,19 +2,13 @@
 
 # <div align="center">🌟 **Welcome to Suman CLoud Tech World ** 🌟</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suman%20Kamarthapu&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Azure%20DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20Specialist&descAlignY=51&descAlign=50"/>
-</div>
+![linkedin_banner_animated_v2](https://github.com/user-attachments/assets/3437ddfb-f8fa-4125-b949-2ce28b93d18e)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=☁️+Azure+DevOps+Engineer+%7C+7%2B+Years;🔄+Building+Scalable+CI%2FCD+Pipelines;🏗️+Terraform+%7C+AKS+%7C+Kubernetes+Expert;🔐+Secure+Cloud+Infrastructure+at+Scale" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450" alt="Coding Animation"/>
-</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
